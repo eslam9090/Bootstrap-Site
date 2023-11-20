@@ -201,7 +201,7 @@ textarea:focus {
 /*  */
 
 .cardw {
-  background-image: url(/Images/tnks.jpg);
+  background-image: url(../Images/tnks.jpg);
   background-size: cover;
   height: 500px;
 }
